@@ -3,7 +3,6 @@
 **/.config
 **/.firebase
 /dist
-/functions
 
 # local env files
 .env.local
