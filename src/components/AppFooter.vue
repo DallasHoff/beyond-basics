@@ -4,7 +4,7 @@
 			<img src="@/assets/logos/hipaa.png" alt="HIPAA Compliant" />
 			<img src="@/assets/logos/nys-wbs.png" alt="New York State Certified Women-Owned Business Enterprise" />
 		</div>
-		<p class="app-footer__footnote">Site by Dallas Hoffman | Copyright {{currentYear}} Beyond Basics Medical Billing Service, LLC</p>
+		<p class="app-footer__footnote">Site by <a href="https://dallashoffman.com/">Dallas Hoffman</a> | Copyright {{currentYear}} Beyond Basics Medical Billing Service, LLC</p>
 	</footer>
 </template>
 
